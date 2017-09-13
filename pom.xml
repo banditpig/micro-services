@@ -15,5 +15,6 @@
     <module>lab-4-noun</module>
     <module>lab-4-subject</module>
     <module>lab-4-verb</module>
+    <module>lab-4-sentence</module>
 </modules>
 </project>
