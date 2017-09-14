@@ -21,6 +21,8 @@
 # java -jar -Dspring.profiles.active=tertiary lab-4-eureka-server-solution-1.jar
 
 ---
+
+
 spring:
   profiles: primary
   application:
